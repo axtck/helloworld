@@ -10,6 +10,6 @@
 
 ---
 ## Run
-* node index.js
+* node index.js 
 * run in browser
 * jsfiddle, codepen...
