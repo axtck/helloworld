@@ -1,6 +1,8 @@
 # Hello, world!
 
-***Hello, world! In as many different (programming) languages as possible.***
+***Hello, world! In different programming languages.***
+
+Because of interest in the syntax of multiple programming languages, this seemed like a fun thing to do.
 
 ---
 
@@ -12,4 +14,4 @@
 
 ## Participate
 
-Feel free to contribute!
+Feel free to fork and contribute!
