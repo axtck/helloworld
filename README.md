@@ -9,6 +9,7 @@ Because of interest in the syntax of multiple programming languages, this seemed
 ## Languages covered
 
 * JavaScript
+* Python
 
 ---
 
