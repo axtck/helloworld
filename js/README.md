@@ -9,7 +9,12 @@
 
 
 ---
-## Run
-* node index.js 
+## Usage 
+
+```bash
+# run with node
+node index.js 
+```
+
 * run in browser
 * jsfiddle, codepen...
