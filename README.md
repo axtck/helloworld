@@ -2,16 +2,17 @@
 
 ***Hello, world! In different programming languages.***
 
-Because of interest in the syntax of multiple programming languages, this seemed like a fun thing to do.
+This seemed like something fun.
 
 ---
 
 ## Languages covered
 
 * JavaScript
+* Python
 
 ---
 
 ## Participate
 
-Feel free to fork and contribute!
+Contributions welcome!
