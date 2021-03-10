@@ -10,6 +10,8 @@ This seemed like something fun.
 
 * JavaScript
 * Python
+* C
+* C++
 
 ---
 
